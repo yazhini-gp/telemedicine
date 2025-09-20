@@ -1,0 +1,136 @@
+{
+  "app": {
+    "name": "NabhaCare",
+    "tagline": "Telemedicine Platform"
+  },
+  "auth": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "name": "Full Name",
+    "role": "Role",
+    "doctor": "Doctor",
+    "patient": "Patient",
+    "domain": "Specialization",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "loginSuccess": "Login successful!",
+    "signupSuccess": "Account created successfully!",
+    "loginError": "Login failed. Please try again.",
+    "signupError": "Signup failed. Please try again."
+  },
+  "dashboard": {
+    "welcome": "Welcome",
+    "patient": {
+      "title": "Patient Dashboard",
+      "records": "Medical Records",
+      "consultations": "Consultations",
+      "prescriptions": "Prescriptions",
+      "medicalCenters": "Medical Centers",
+      "symptomChecker": "Symptom Checker"
+    },
+    "doctor": {
+      "title": "Doctor Dashboard",
+      "patients": "Patients",
+      "consultations": "Consultations",
+      "prescriptions": "Prescriptions",
+      "availability": "Availability",
+      "pendingRequests": "Pending Requests"
+    }
+  },
+  "consultation": {
+    "request": "Request Consultation",
+    "mode": "Consultation Mode",
+    "video": "Video Call",
+    "audio": "Audio Call",
+    "text": "Text Chat",
+    "status": "Status",
+    "pending": "Pending",
+    "accepted": "Accepted",
+    "rejected": "Rejected",
+    "completed": "Completed",
+    "selectDoctor": "Select Doctor",
+    "reason": "Reason for Consultation",
+    "urgency": "Urgency Level",
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High",
+    "emergency": "Emergency"
+  },
+  "prescription": {
+    "title": "Prescription",
+    "medicines": "Medicines",
+    "dosage": "Dosage",
+    "duration": "Duration",
+    "instructions": "Instructions",
+    "bill": "Bill Amount",
+    "generate": "Generate Prescription",
+    "download": "Download PDF"
+  },
+  "records": {
+    "title": "Medical Records",
+    "diagnosis": "Diagnosis",
+    "symptoms": "Symptoms",
+    "treatment": "Treatment",
+    "date": "Date",
+    "doctor": "Doctor",
+    "patient": "Patient",
+    "addRecord": "Add Record",
+    "search": "Search Records"
+  },
+  "chatbot": {
+    "title": "Symptom Checker",
+    "placeholder": "Describe your symptoms...",
+    "send": "Send",
+    "suggestedCondition": "Suggested Condition",
+    "urgency": "Urgency Level",
+    "recommendation": "Recommendation",
+    "emergency": "Emergency - Seek immediate medical attention",
+    "doctorConsult": "Doctor Consultation Recommended",
+    "selfCare": "Self-care recommended",
+    "startNewSession": "Start New Session"
+  },
+  "medicalCenters": {
+    "title": "Medical Centers",
+    "location": "Location",
+    "availableMedicines": "Available Medicines",
+    "distance": "Distance",
+    "contact": "Contact",
+    "findNearest": "Find Nearest Centers"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "view": "View",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "offline": "You are offline. Showing cached records.",
+    "online": "You are back online.",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "language": "Language",
+    "settings": "Settings",
+    "profile": "Profile",
+    "notifications": "Notifications"
+  },
+  "navigation": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "records": "Records",
+    "consultations": "Consultations",
+    "prescriptions": "Prescriptions",
+    "medicalCenters": "Medical Centers",
+    "chatbot": "Symptom Checker",
+    "settings": "Settings"
+  }
+}

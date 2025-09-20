@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "466768461218",
+    "project_id": "telemedicine-7ed27",
+    "storage_bucket": "telemedicine-7ed27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466768461218:android:3a92b8daa5a24277a846fb",
+        "android_client_info": {
+          "package_name": "com.nabha_care.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3hq548Tf-Gb6gxil2_DXgQ7Zs3RZTYe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466768461218:android:db712cad2a0f878fa846fb",
+        "android_client_info": {
+          "package_name": "com.nabha_care.sih"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3hq548Tf-Gb6gxil2_DXgQ7Zs3RZTYe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

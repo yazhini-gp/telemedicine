@@ -1,0 +1,136 @@
+{
+  "app": {
+    "name": "ਨਭਾ ਕੇਅਰ",
+    "tagline": "ਟੈਲੀਮੈਡੀਸਨ ਪਲੇਟਫਾਰਮ"
+  },
+  "auth": {
+    "login": "ਲੌਗ ਇਨ",
+    "signup": "ਸਾਈਨ ਅਪ",
+    "logout": "ਲੌਗ ਆਉਟ",
+    "email": "ਈਮੇਲ",
+    "password": "ਪਾਸਵਰਡ",
+    "confirmPassword": "ਪਾਸਵਰਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
+    "name": "ਪੂਰਾ ਨਾਮ",
+    "role": "ਭੂਮਿਕਾ",
+    "doctor": "ਡਾਕਟਰ",
+    "patient": "ਮਰੀਜ਼",
+    "domain": "ਵਿਸ਼ੇਸ਼ਤਾ",
+    "forgotPassword": "ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ?",
+    "noAccount": "ਖਾਤਾ ਨਹੀਂ ਹੈ?",
+    "hasAccount": "ਪਹਿਲਾਂ ਤੋਂ ਖਾਤਾ ਹੈ?",
+    "loginSuccess": "ਲੌਗ ਇਨ ਸਫਲ!",
+    "signupSuccess": "ਖਾਤਾ ਸਫਲਤਾਪੂਰਵਕ ਬਣਾਇਆ ਗਿਆ!",
+    "loginError": "ਲੌਗ ਇਨ ਅਸਫਲ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
+    "signupError": "ਸਾਈਨ ਅਪ ਅਸਫਲ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+  },
+  "dashboard": {
+    "welcome": "ਸਵਾਗਤ ਹੈ",
+    "patient": {
+      "title": "ਮਰੀਜ਼ ਡੈਸ਼ਬੋਰਡ",
+      "records": "ਡਾਕਟਰੀ ਰਿਕਾਰਡ",
+      "consultations": "ਸਲਾਹ-ਮਸ਼ਵਰਾ",
+      "prescriptions": "ਪ੍ਰੈਸਕ੍ਰਿਪਸ਼ਨ",
+      "medicalCenters": "ਡਾਕਟਰੀ ਕੇਂਦਰ",
+      "symptomChecker": "ਲੱਛਣ ਜਾਂਚਕਰਤਾ"
+    },
+    "doctor": {
+      "title": "ਡਾਕਟਰ ਡੈਸ਼ਬੋਰਡ",
+      "patients": "ਮਰੀਜ਼",
+      "consultations": "ਸਲਾਹ-ਮਸ਼ਵਰਾ",
+      "prescriptions": "ਪ੍ਰੈਸਕ੍ਰਿਪਸ਼ਨ",
+      "availability": "ਉਪਲਬਧਤਾ",
+      "pendingRequests": "ਲੰਬਿਤ ਬੇਨਤੀਆਂ"
+    }
+  },
+  "consultation": {
+    "request": "ਸਲਾਹ-ਮਸ਼ਵਰੇ ਦੀ ਬੇਨਤੀ",
+    "mode": "ਸਲਾਹ-ਮਸ਼ਵਰਾ ਮੋਡ",
+    "video": "ਵੀਡੀਓ ਕਾਲ",
+    "audio": "ਆਡੀਓ ਕਾਲ",
+    "text": "ਟੈਕਸਟ ਚੈਟ",
+    "status": "ਸਥਿਤੀ",
+    "pending": "ਲੰਬਿਤ",
+    "accepted": "ਸਵੀਕਾਰਿਤ",
+    "rejected": "ਅਸਵੀਕਾਰਿਤ",
+    "completed": "ਪੂਰਾ",
+    "selectDoctor": "ਡਾਕਟਰ ਚੁਣੋ",
+    "reason": "ਸਲਾਹ-ਮਸ਼ਵਰੇ ਦਾ ਕਾਰਨ",
+    "urgency": "ਤਾਤਕਾਲਿਕਤਾ ਪੱਧਰ",
+    "low": "ਘੱਟ",
+    "medium": "ਮੱਧਮ",
+    "high": "ਉੱਚ",
+    "emergency": "ਐਮਰਜੈਂਸੀ"
+  },
+  "prescription": {
+    "title": "ਪ੍ਰੈਸਕ੍ਰਿਪਸ਼ਨ",
+    "medicines": "ਦਵਾਈਆਂ",
+    "dosage": "ਖੁਰਾਕ",
+    "duration": "ਅਵਧੀ",
+    "instructions": "ਨਿਰਦੇਸ਼",
+    "bill": "ਬਿਲ ਰਕਮ",
+    "generate": "ਪ੍ਰੈਸਕ੍ਰਿਪਸ਼ਨ ਜਨਰੇਟ ਕਰੋ",
+    "download": "PDF ਡਾਉਨਲੋਡ ਕਰੋ"
+  },
+  "records": {
+    "title": "ਡਾਕਟਰੀ ਰਿਕਾਰਡ",
+    "diagnosis": "ਨਿਦਾਨ",
+    "symptoms": "ਲੱਛਣ",
+    "treatment": "ਇਲਾਜ",
+    "date": "ਤਾਰੀਖ",
+    "doctor": "ਡਾਕਟਰ",
+    "patient": "ਮਰੀਜ਼",
+    "addRecord": "ਰਿਕਾਰਡ ਜੋੜੋ",
+    "search": "ਰਿਕਾਰਡ ਖੋਜੋ"
+  },
+  "chatbot": {
+    "title": "ਲੱਛਣ ਜਾਂਚਕਰਤਾ",
+    "placeholder": "ਆਪਣੇ ਲੱਛਣਾਂ ਦਾ ਵਰਣਨ ਕਰੋ...",
+    "send": "ਭੇਜੋ",
+    "suggestedCondition": "ਸੁਝਾਈ ਗਈ ਸਥਿਤੀ",
+    "urgency": "ਤਾਤਕਾਲਿਕਤਾ ਪੱਧਰ",
+    "recommendation": "ਸਿਫਾਰਸ਼",
+    "emergency": "ਐਮਰਜੈਂਸੀ - ਤੁਰੰਤ ਡਾਕਟਰੀ ਸਹਾਇਤਾ ਲਓ",
+    "doctorConsult": "ਡਾਕਟਰ ਸਲਾਹ-ਮਸ਼ਵਰੇ ਦੀ ਸਿਫਾਰਸ਼",
+    "selfCare": "ਸੈਲਫ-ਕੇਅਰ ਦੀ ਸਿਫਾਰਸ਼",
+    "startNewSession": "ਨਵਾਂ ਸੈਸ਼ਨ ਸ਼ੁਰੂ ਕਰੋ"
+  },
+  "medicalCenters": {
+    "title": "ਡਾਕਟਰੀ ਕੇਂਦਰ",
+    "location": "ਟਿਕਾਣਾ",
+    "availableMedicines": "ਉਪਲਬਧ ਦਵਾਈਆਂ",
+    "distance": "ਦੂਰੀ",
+    "contact": "ਸੰਪਰਕ",
+    "findNearest": "ਨੇੜਲੇ ਕੇਂਦਰ ਖੋਜੋ"
+  },
+  "common": {
+    "save": "ਸੇਵ ਕਰੋ",
+    "cancel": "ਰੱਦ ਕਰੋ",
+    "edit": "ਸੰਪਾਦਿਤ ਕਰੋ",
+    "delete": "ਹਟਾਓ",
+    "view": "ਦੇਖੋ",
+    "search": "ਖੋਜੋ",
+    "filter": "ਫਿਲਟਰ",
+    "sort": "ਕ੍ਰਮਬੱਧ ਕਰੋ",
+    "loading": "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ...",
+    "error": "ਗਲਤੀ",
+    "success": "ਸਫਲਤਾ",
+    "offline": "ਤੁਸੀਂ ਆਫਲਾਈਨ ਹੋ। ਕੈਸ਼ਡ ਰਿਕਾਰਡ ਦਿਖਾਏ ਜਾ ਰਹੇ ਹਨ।",
+    "online": "ਤੁਸੀਂ ਵਾਪਸ ਆਨਲਾਈਨ ਹੋ।",
+    "darkMode": "ਡਾਰਕ ਮੋਡ",
+    "lightMode": "ਲਾਈਟ ਮੋਡ",
+    "language": "ਭਾਸ਼ਾ",
+    "settings": "ਸੈਟਿੰਗਜ਼",
+    "profile": "ਪ੍ਰੋਫਾਈਲ",
+    "notifications": "ਸੂਚਨਾਵਾਂ"
+  },
+  "navigation": {
+    "home": "ਹੋਮ",
+    "dashboard": "ਡੈਸ਼ਬੋਰਡ",
+    "records": "ਰਿਕਾਰਡ",
+    "consultations": "ਸਲਾਹ-ਮਸ਼ਵਰਾ",
+    "prescriptions": "ਪ੍ਰੈਸਕ੍ਰਿਪਸ਼ਨ",
+    "medicalCenters": "ਡਾਕਟਰੀ ਕੇਂਦਰ",
+    "chatbot": "ਲੱਛਣ ਜਾਂਚਕਰਤਾ",
+    "settings": "ਸੈਟਿੰਗਜ਼"
+  }
+}

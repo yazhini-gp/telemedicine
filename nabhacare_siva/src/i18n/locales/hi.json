@@ -1,0 +1,136 @@
+{
+  "app": {
+    "name": "नभा केयर",
+    "tagline": "टेलीमेडिसिन प्लेटफॉर्म"
+  },
+  "auth": {
+    "login": "लॉगिन",
+    "signup": "साइन अप",
+    "logout": "लॉग आउट",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "name": "पूरा नाम",
+    "role": "भूमिका",
+    "doctor": "डॉक्टर",
+    "patient": "मरीज",
+    "domain": "विशेषज्ञता",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "noAccount": "खाता नहीं है?",
+    "hasAccount": "पहले से खाता है?",
+    "loginSuccess": "लॉगिन सफल!",
+    "signupSuccess": "खाता सफलतापूर्वक बनाया गया!",
+    "loginError": "लॉगिन असफल। कृपया पुनः प्रयास करें।",
+    "signupError": "साइन अप असफल। कृपया पुनः प्रयास करें।"
+  },
+  "dashboard": {
+    "welcome": "स्वागत है",
+    "patient": {
+      "title": "मरीज डैशबोर्ड",
+      "records": "चिकित्सा रिकॉर्ड",
+      "consultations": "परामर्श",
+      "prescriptions": "पर्चे",
+      "medicalCenters": "चिकित्सा केंद्र",
+      "symptomChecker": "लक्षण जांचकर्ता"
+    },
+    "doctor": {
+      "title": "डॉक्टर डैशबोर्ड",
+      "patients": "मरीज",
+      "consultations": "परामर्श",
+      "prescriptions": "पर्चे",
+      "availability": "उपलब्धता",
+      "pendingRequests": "लंबित अनुरोध"
+    }
+  },
+  "consultation": {
+    "request": "परामर्श का अनुरोध",
+    "mode": "परामर्श मोड",
+    "video": "वीडियो कॉल",
+    "audio": "ऑडियो कॉल",
+    "text": "टेक्स्ट चैट",
+    "status": "स्थिति",
+    "pending": "लंबित",
+    "accepted": "स्वीकृत",
+    "rejected": "अस्वीकृत",
+    "completed": "पूर्ण",
+    "selectDoctor": "डॉक्टर चुनें",
+    "reason": "परामर्श का कारण",
+    "urgency": "तात्कालिकता स्तर",
+    "low": "कम",
+    "medium": "मध्यम",
+    "high": "उच्च",
+    "emergency": "आपातकाल"
+  },
+  "prescription": {
+    "title": "पर्चा",
+    "medicines": "दवाएं",
+    "dosage": "खुराक",
+    "duration": "अवधि",
+    "instructions": "निर्देश",
+    "bill": "बिल राशि",
+    "generate": "पर्चा जेनरेट करें",
+    "download": "PDF डाउनलोड करें"
+  },
+  "records": {
+    "title": "चिकित्सा रिकॉर्ड",
+    "diagnosis": "निदान",
+    "symptoms": "लक्षण",
+    "treatment": "उपचार",
+    "date": "तारीख",
+    "doctor": "डॉक्टर",
+    "patient": "मरीज",
+    "addRecord": "रिकॉर्ड जोड़ें",
+    "search": "रिकॉर्ड खोजें"
+  },
+  "chatbot": {
+    "title": "लक्षण जांचकर्ता",
+    "placeholder": "अपने लक्षणों का वर्णन करें...",
+    "send": "भेजें",
+    "suggestedCondition": "सुझाई गई स्थिति",
+    "urgency": "तात्कालिकता स्तर",
+    "recommendation": "सिफारिश",
+    "emergency": "आपातकाल - तुरंत चिकित्सा सहायता लें",
+    "doctorConsult": "डॉक्टर परामर्श की सिफारिश",
+    "selfCare": "स्व-देखभाल की सिफारिश",
+    "startNewSession": "नया सत्र शुरू करें"
+  },
+  "medicalCenters": {
+    "title": "चिकित्सा केंद्र",
+    "location": "स्थान",
+    "availableMedicines": "उपलब्ध दवाएं",
+    "distance": "दूरी",
+    "contact": "संपर्क",
+    "findNearest": "निकटतम केंद्र खोजें"
+  },
+  "common": {
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "edit": "संपादित करें",
+    "delete": "हटाएं",
+    "view": "देखें",
+    "search": "खोजें",
+    "filter": "फिल्टर",
+    "sort": "क्रमबद्ध करें",
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "offline": "आप ऑफलाइन हैं। कैश्ड रिकॉर्ड दिखाए जा रहे हैं।",
+    "online": "आप वापस ऑनलाइन हैं।",
+    "darkMode": "डार्क मोड",
+    "lightMode": "लाइट मोड",
+    "language": "भाषा",
+    "settings": "सेटिंग्स",
+    "profile": "प्रोफाइल",
+    "notifications": "सूचनाएं"
+  },
+  "navigation": {
+    "home": "होम",
+    "dashboard": "डैशबोर्ड",
+    "records": "रिकॉर्ड",
+    "consultations": "परामर्श",
+    "prescriptions": "पर्चे",
+    "medicalCenters": "चिकित्सा केंद्र",
+    "chatbot": "लक्षण जांचकर्ता",
+    "settings": "सेटिंग्स"
+  }
+}
